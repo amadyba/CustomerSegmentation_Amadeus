@@ -20,6 +20,8 @@ This project requires Python 3.6 and the following Python libraries installed:
    - Pandas
    - matplotlib
    - scikit-learn
+   - seaborn
+   - plotly 
 
 ## Summary
 
